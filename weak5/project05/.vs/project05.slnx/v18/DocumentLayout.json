@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dell\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dell\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dell\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dell\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dell\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dell\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\project01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "project01\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\ClassDiagram1.cd",
+              "RelativeToolTip": "project01\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-05-21T08:59:00.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "project01.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\project01.csproj",
+              "RelativeDocumentMoniker": "project01\\project01.csproj",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\project01.csproj",
+              "RelativeToolTip": "project01\\project01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-21T07:33:20.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "project01\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\AppDbContext.cs",
+              "RelativeToolTip": "project01\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:34:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\Student.cs",
+              "RelativeDocumentMoniker": "project01\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\Student.cs",
+              "RelativeToolTip": "project01\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:34:05.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\Department.cs",
+              "RelativeDocumentMoniker": "project01\\Department.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\Department.cs",
+              "RelativeToolTip": "project01\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:33:32.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\Program.cs",
+              "RelativeDocumentMoniker": "project01\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\backend\\weak5\\project05\\project01\\Program.cs",
+              "RelativeToolTip": "project01\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:29:14.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
